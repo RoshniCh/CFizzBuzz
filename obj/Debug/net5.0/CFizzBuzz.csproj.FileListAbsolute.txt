@@ -1,0 +1,16 @@
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.exe
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.deps.json
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.runtimeconfig.json
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.runtimeconfig.dev.json
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.dll
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\ref\CFizzBuzz.dll
+C:\Users\roscha\training\CFizzBuzz\bin\Debug\net5.0\CFizzBuzz.pdb
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.csprojAssemblyReference.cache
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.AssemblyInfo.cs
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.dll
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\ref\CFizzBuzz.dll
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.pdb
+C:\Users\roscha\training\CFizzBuzz\obj\Debug\net5.0\CFizzBuzz.genruntimeconfig.cache
